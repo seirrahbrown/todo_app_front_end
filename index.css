@@ -10,6 +10,7 @@ li{
 li:hover{
     background-color:lightblue;
 }
+
 .pomodoro-estimate{
     color: red;
     border:1px solid black;
@@ -35,4 +36,8 @@ li:hover{
 
 #add-new-todo-button:active{
     box-shadow:1px 1px 1px pink;
+}
+
+img{
+    display: block;
 }
