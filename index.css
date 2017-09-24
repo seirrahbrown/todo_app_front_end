@@ -1,12 +1,22 @@
 html{
     font-family: sans-serif;
 }
+
+li{
+    padding:5px;
+    margin-bottom: 10px;
+}
+
+li:hover{
+    background-color:lightblue;
+}
 .pomodoro-estimate{
     color: red;
+    border:1px solid black;
     font-weight: bold;
     font-size: 14px;
     background-color:pink;
-    padding: 2px 1px 2px 1px;
+    padding: 1px 1px 1px 1px;
     border-radius: 1500px;
 }
 
